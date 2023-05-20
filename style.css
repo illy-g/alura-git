@@ -394,7 +394,7 @@ en google inspeciconar se puede verificar
    nav{
     position: static;
    }
-    .caja,.principal,.mapa-contenido, .contenido-diferenciales,.video,.yomy{
+    .caja,.principal,.mapa-contenido, .contenido-diferenciales,.video,.yomy li{
         width: auto;
     }
     .lista-diferenciales{
